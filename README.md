@@ -67,4 +67,4 @@ Since the pickle file created for this is larger than 100 mb. It is not deployed
 However, the app will run finely in localhost.
 
 ## Acknowledgements
-- This project is inspired by the Video on YouTube Channel name (CampusX).[Link]([https://youtu.be/1xtrIEwY_zY?si=Ntgr38P5zR5gdbYw])
+- This project is inspired by the Video on YouTube Channel name (CampusX).[Link](https://youtu.be/1xtrIEwY_zY?si=Ntgr38P5zR5gdbYw)
